@@ -62,7 +62,6 @@ Ansible was used to automate configuration of the ELK machine. No configuration 
 - A single Ansible playbook can be ran on multiple servers quicly and with ease.
 
 The playbook implements the following tasks:
-- _TODO: In 3-5 bullets, explain the steps of the ELK installation play. E.g., install Docker; download image; etc._
 - Install Docker
 - Install pip3
 - Install Docker python module
